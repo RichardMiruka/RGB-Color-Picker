@@ -1,1 +1,1 @@
-# -RGB-Color-Picker
+# RGB-Color-Picker
